@@ -70,7 +70,7 @@ A comprehensive data analytics dashboard visualizing drug addiction demographics
 
 ## 📈 Key Findings & Insights
 
-### 1. 🔍 Demographic Insights
+# 1. 🔍 Demographic Insights
 
 ### Age Group Distribution (Malaysia)
 
